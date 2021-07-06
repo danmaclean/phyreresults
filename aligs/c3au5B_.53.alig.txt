@@ -1,0 +1,26 @@
+53 c3au5B_ Probab=58.28   E-value=30  Score=18.12  Aligned_columns=76  Identities=11%
+
+Q ss_pred             HHHHHHHHHHCCCCEEEEEEECCCCCCCCCCEEEEEECCCCCHHHHHHHHHHHCCCCC-C
+Q ss_conf             9999999984898005999976768875445058997586529999999998629997-7
+Q Undefined        16 MSESSRIREKYPDRIPVIVEKAGQSDVPDIDKKKYLVPADLTVGQFVYVVRKRIKLGA-E   74 (122)
+Q Consensus        16 ~~e~~~ir~k~p~~IPVIvE~~~~~~~p~l~k~KflV~~~~tv~~~~~~lrk~L~l~~-~   74 (122)
+                      ..|.+.++.+.|-.+||-+        |.-....+.|....|+.+++..|.++|+|.+ .
+T Consensus       177 ~~Ei~ai~~~~~~~~~V~~--------~~g~~~~v~vds~Ttv~evi~~i~~klgL~~~~  228 (484)
+T c3au5B_         177 RDEIEALIHRQEMTSTVYC--------HGGGSCKITINSHTTAGEVVEKLIRGLAMEDSR  228 (484)
+T ss_dssp             HHHHHHHHTTCCEEEEEEE--------TTTEEEEEEECSSCBHHHHHHHHHHHHTCTTCS
+T ss_pred             HHHHHHHCCCCCEEEEEEE--------CCCCEEEEEECCCHHHHHHHHHHHHHHCCCCCC
+T ss_conf             8999984147850589995--------289779999425017999999999981997265
+
+
+Q ss_pred             CEEEEEECC----EECCHHHHHHHHHHHH
+Q ss_conf             779999879----2088026799999971
+Q Undefined        75 KAIFVFVKN----TLPPTAALMSAIYEEH   99 (122)
+Q Consensus        75 ~slflyVnn----~~p~~d~~ig~LY~~~   99 (122)
+                      .-+-||...    ....+++.+.|+..+.
+T Consensus       229 ~~FaL~~~~~~~~~~L~~~~~i~Dv~sk~  257 (484)
+T c3au5B_         229 NMFALFEYNGHVDKAIESRTVVADVLAKF  257 (484)
+T ss_dssp             SEEEEEEECSSCCCBCCTTSBHHHHHHHH
+T ss_pred             CCEEEEEEECCEEEECCCCCCHHHHHHHH
+T ss_conf             72699998199888428552232446642
+
+

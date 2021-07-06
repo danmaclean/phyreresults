@@ -1,0 +1,14 @@
+27 c2l76A_ Probab=73.70   E-value=14  Score=19.86  Aligned_columns=49  Identities=10%
+
+Q ss_pred             CEEEEEECCCCCHHHHHHHHHHHCCCCCCCEEEEEECCEECCHHHHHHHH
+Q ss_conf             50589975865299999999986299977779999879208802679999
+Q Undefined        46 DKKKYLVPADLTVGQFVYVVRKRIKLGAEKAIFVFVKNTLPPTAALMSAI   95 (122)
+Q Consensus        46 ~k~KflV~~~~tv~~~~~~lrk~L~l~~~~slflyVnn~~p~~d~~ig~L   95 (122)
+                      +.-+|.|..+.+++.++..+.++.++++++ +-|+-++....+++|..+|
+T Consensus        31 ~~~~~~I~~~~~l~~L~~~~a~~~~i~~~~-i~l~FdG~~l~~~~Tp~~l   79 (95)
+T c2l76A_          31 DLVRLPLRMSEPLQSVVDHMATHLGVSPSR-ILLLFGETELSPTATPRTL   79 (95)
+T ss_dssp             SEEEEEECSSSCTHHHHHHHHHHHTSCGGG-EEEEETTEECCTTSCHHHH
+T ss_pred             CEEEEEECCCCHHHHHHHHHHHHHCCCHHH-EEEEECCEECCCCCCHHHC
+T ss_conf             419999748981899999999984999787-7888678361722198873
+
+

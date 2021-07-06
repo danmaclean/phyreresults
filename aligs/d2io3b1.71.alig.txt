@@ -1,0 +1,14 @@
+71 d2io3b1 Probab=47.10   E-value=18  Score=19.39  Aligned_columns=52  Identities=8%
+
+Q ss_pred             CCCCEEEEEECCCCCHHHHHHHHHHHCCCCCCCEEEEEECCEECCHHHHHHHH
+Q ss_conf             54450589975865299999999986299977779999879208802679999
+Q Undefined        43 PDIDKKKYLVPADLTVGQFVYVVRKRIKLGAEKAIFVFVKNTLPPTAALMSAI   95 (122)
+Q Consensus        43 p~l~k~KflV~~~~tv~~~~~~lrk~L~l~~~~slflyVnn~~p~~d~~ig~L   95 (122)
+                      ..-..-.|.|..+.++..++..+..+.+++++ .+-|+-++....++++++++
+T Consensus         6 ~~g~~i~~~v~~~~~v~~lk~~~~~~~~i~~~-~~~l~f~G~~L~~~~t~~~~   57 (74)
+T d2io3b1           6 QDGSVVQFKIKRHTPLSKLMKAYCERQGLSMR-QIRFRFDGQPINETDTPAQL   57 (74)
+T ss_dssp             SSSCCEECCCCTTCCTHHHHHHHHHTTCCCTT-TEEEEBTTBCCCSSCCTTTT
+T ss_pred             CCCCEEEEEECCCCCHHHHHHHHHHHCCCCEE-EEEEEECCEEECCCCCHHHC
+T ss_conf             89989999975998389999999986099624-69999889881366656764
+
+

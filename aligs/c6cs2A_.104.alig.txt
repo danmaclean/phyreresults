@@ -1,0 +1,14 @@
+104 c6cs2A_ Probab=30.66   E-value=8.3  Score=21.16  Aligned_columns=32  Identities=22%
+
+Q ss_pred             EEEECCEE-CCHHHHHHHHH----HHHCCCCCEEEEE
+Q ss_conf             99987920-88026799999----9716768879999
+Q Undefined        78 FVFVKNTL-PPTAALMSAIY----EEHKDEDGFLYMT  109 (122)
+Q Consensus        78 flyVnn~~-p~~d~~ig~LY----~~~kd~DGfLyi~  109 (122)
+                      |-||+|.| ...+...+.|-    =-||+.|||||++
+T Consensus       144 ~~~~~~~fs~dvs~~~~~~~~~r~f~fk~~d~~ly~~  180 (891)
+T c6cs2A_         144 FEYISDAFSLDVSEKSGNFKHLREFVFKNKDGFLYVY  180 (891)
+T ss_dssp             EEEECCCCCCCCSCCCSSEEEEEEEEEEEETTEEEEE
+T ss_pred             EEECCCCEEEEECCCCEEHHHHCEEEEECCCEEEEEE
+T ss_conf             0011440454414541002210003574397369996
+
+

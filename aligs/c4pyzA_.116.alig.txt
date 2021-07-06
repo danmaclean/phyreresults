@@ -1,0 +1,14 @@
+116 c4pyzA_ Probab=22.20   E-value=1.3e+02  Score=14.72  Aligned_columns=32  Identities=9%
+
+Q ss_pred             EEEECCCCCHHHHHHHHHHHCCCCCCCEEEEE
+Q ss_conf             89975865299999999986299977779999
+Q Undefined        49 KYLVPADLTVGQFVYVVRKRIKLGAEKAIFVF   80 (122)
+Q Consensus        49 KflV~~~~tv~~~~~~lrk~L~l~~~~slfly   80 (122)
+                      ...|+.+.+++.+...|++++++.++..|-+|
+T Consensus       174 ~~~v~~~~~i~~l~~~i~~~~g~p~dt~l~~y  205 (263)
+T c4pyzA_         174 HIYTPISCKIRDLLPVMCDRAGFIQDTSLILY  205 (263)
+T ss_dssp             EEEEETTCBSGGGHHHHHHHHTCCTTCCEEEE
+T ss_pred             EEEECCCCCHHHHHHHHHHHCCCCCCCCEEEE
+T ss_conf             68876567888989999997289999827998
+
+

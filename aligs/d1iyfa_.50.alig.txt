@@ -1,0 +1,14 @@
+50 d1iyfa_ Probab=59.63   E-value=27  Score=18.37  Aligned_columns=43  Identities=21%
+
+Q ss_pred             ECCCCCHHHHHHHHHHHCCCCCCCEEEEEECCEECCHHHHHHHH
+Q ss_conf             75865299999999986299977779999879208802679999
+Q Undefined        52 VPADLTVGQFVYVVRKRIKLGAEKAIFVFVKNTLPPTAALMSAI   95 (122)
+Q Consensus        52 V~~~~tv~~~~~~lrk~L~l~~~~slflyVnn~~p~~d~~ig~L   95 (122)
+                      |+.+.|++++...+..+.++++++ ..|..++..+..+.++++.
+T Consensus        17 v~~~~tv~~lK~~i~~~~~i~~~~-~~L~~~g~~L~d~~tL~~~   59 (76)
+T d1iyfa_          17 VDSDTSIFQLKEVVAKRQGVPADQ-LRVIFAGKELRNDWTVQNC   59 (76)
+T ss_dssp             SCSSSTHHHHHHHHHHHTTSCSSS-SEEEETTEESCTTTTSHHH
+T ss_pred             ECCCCCHHHHHHHHHHHHCCCHHH-EEEEECCEECCCCCCHHHC
+T ss_conf             677554899999999870999777-8999887984666649991
+
+

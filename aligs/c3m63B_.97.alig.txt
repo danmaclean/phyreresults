@@ -1,0 +1,14 @@
+97 c3m63B_ Probab=35.44   E-value=49  Score=16.93  Aligned_columns=42  Identities=14%
+
+Q ss_pred             ECCCCCHHHHHHHHHHHCCCCCCCEEEEEECCEECCHHHHHHH
+Q ss_conf             7586529999999998629997777999987920880267999
+Q Undefined        52 VPADLTVGQFVYVVRKRIKLGAEKAIFVFVKNTLPPTAALMSA   94 (122)
+Q Consensus        52 V~~~~tv~~~~~~lrk~L~l~~~~slflyVnn~~p~~d~~ig~   94 (122)
+                      |+.+.|++++...|..+.++++++ .-|+.++.....+.++++
+T Consensus        16 v~~~~tv~~lK~~i~~~~~i~~~~-q~L~~~G~~L~d~~tL~~   57 (72)
+T c3m63B_          16 VAPESTVLQFKEAINKANGIPVAN-QRLIYSGKILKDDQTVES   57 (72)
+T ss_dssp             CCTTSBHHHHHHHHHHHHSCCSTT-CCEEETTEECCTTSBTTT
+T ss_pred             ECCCCCHHHHHHHHHHHHCCCHHH-EEEEECCEECCCCCCHHH
+T ss_conf             678774899999999772999787-899988788466664999
+
+

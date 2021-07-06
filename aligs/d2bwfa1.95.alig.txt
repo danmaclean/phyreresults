@@ -1,0 +1,14 @@
+95 d2bwfa1 Probab=36.09   E-value=70  Score=16.12  Aligned_columns=48  Identities=17%
+
+Q ss_pred             CEEEEEECCCCCHHHHHHHHHHHCCCCCCCEEEEEECCEECCHHHHHHH
+Q ss_conf             5058997586529999999998629997777999987920880267999
+Q Undefined        46 DKKKYLVPADLTVGQFVYVVRKRIKLGAEKAIFVFVKNTLPPTAALMSA   94 (122)
+Q Consensus        46 ~k~KflV~~~~tv~~~~~~lrk~L~l~~~~slflyVnn~~p~~d~~ig~   94 (122)
+                      +.-.+-|+.+.||+++...|..+.++++.+ ..|+.++.....+.++++
+T Consensus        11 ~~~~i~v~~~~tV~~lK~~i~~~~~i~~~~-~~L~~~gk~L~d~~tL~~   58 (73)
+T d2bwfa1          11 DKWEVNVAPESTVLQFKEAINKANGIPVAN-QRLIYSGKILKDDQTVES   58 (73)
+T ss_dssp             EEEEEEECTTCBHHHHHHHHHHHHCCCGGG-EEEEETTEECCTTSBTGG
+T ss_pred             EEEEEEECCCCCHHHHHHHHHHHHCCCHHH-EEEEECCEECCCCCCHHH
+T ss_conf             499999778874899999999997699787-898978788576555998
+
+

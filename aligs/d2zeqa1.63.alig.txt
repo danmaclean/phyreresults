@@ -1,0 +1,14 @@
+63 d2zeqa1 Probab=52.75   E-value=37  Score=17.60  Aligned_columns=48  Identities=21%
+
+Q ss_pred             CEEEEEECCCCCHHHHHHHHHHHCCCCCCCEEEEEECCEECCHHHHHHH
+Q ss_conf             5058997586529999999998629997777999987920880267999
+Q Undefined        46 DKKKYLVPADLTVGQFVYVVRKRIKLGAEKAIFVFVKNTLPPTAALMSA   94 (122)
+Q Consensus        46 ~k~KflV~~~~tv~~~~~~lrk~L~l~~~~slflyVnn~~p~~d~~ig~   94 (122)
+                      ..-.+-|+.+.|++++...|..+.++++++ ..|+.++.....+.++++
+T Consensus        13 ~~~~i~v~~~~tV~~lK~~i~~~~~i~~~~-~~Li~~Gk~L~d~~tL~~   60 (78)
+T d2zeqa1          13 YGFPVEVDSDTSILQLKEVVAKRQGVPADQ-LRVIFAGKELPNHLTVQN   60 (78)
+T ss_dssp             SCEEEEECTTCBHHHHHHHHHHHHTCCGGG-EEEEETTEEECTTCBGGG
+T ss_pred             CEEEEEECCCCCHHHHHHHHHHHHCCCHHH-EEEEECCEECCCCCCHHH
+T ss_conf             899999678442899999999762868666-588987798567765899
+
+

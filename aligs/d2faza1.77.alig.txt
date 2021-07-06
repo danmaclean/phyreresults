@@ -1,0 +1,14 @@
+77 d2faza1 Probab=43.33   E-value=45  Score=17.14  Aligned_columns=42  Identities=5%
+
+Q ss_pred             ECCCCCHHHHHHHHHHHCCCCCCCEEEEEECCEECCHHHHHHH
+Q ss_conf             7586529999999998629997777999987920880267999
+Q Undefined        52 VPADLTVGQFVYVVRKRIKLGAEKAIFVFVKNTLPPTAALMSA   94 (122)
+Q Consensus        52 V~~~~tv~~~~~~lrk~L~l~~~~slflyVnn~~p~~d~~ig~   94 (122)
+                      |+.+.||+++...+..+.+++++. .-|+.++.....+.++.+
+T Consensus        19 v~~~~tV~~lK~~i~~~~~i~~~~-qrli~~G~~L~d~~tL~~   60 (76)
+T d2faza1          19 LSRLTKVEELRRKIQELFHVEPGL-QRLFYRGKQMEDGHTLFD   60 (76)
+T ss_dssp             CCTTCBHHHHHHHHHHHHCCCGGG-EEEEETTEECCTTCBTTT
+T ss_pred             ECCCCCHHHHHHHHHHHHCCCHHH-EEEEECCEECCCCCCHHH
+T ss_conf             489881899999999985798877-586656799246757988
+
+

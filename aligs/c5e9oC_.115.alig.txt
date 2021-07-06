@@ -1,0 +1,14 @@
+115 c5e9oC_ Probab=23.48   E-value=78  Score=15.86  Aligned_columns=19  Identities=26%
+
+Q ss_pred             CCCEEEEEECCCCCCCCCC
+Q ss_conf             6887999972864113101
+Q Undefined       102 EDGFLYMTYSGENTFGSLT  120 (122)
+Q Consensus       102 ~DGfLyi~Ys~~~afG~~~  120 (122)
+                      .||.-||+|.+-..||-++
+T Consensus        65 sdgywyihyksgvswghve   83 (85)
+T c5e9oC_          65 SDGYWYIHYKSGVSWGHVE   83 (85)
+T ss_dssp             TTSCEEEEEEESSTTCEEE
+T ss_pred             CCCEEEEEECCCCCEEEEE
+T ss_conf             5755999971675454367
+
+

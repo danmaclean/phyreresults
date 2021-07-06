@@ -1,0 +1,14 @@
+119 c6mdhA_ Probab=21.08   E-value=1.3e+02  Score=14.59  Aligned_columns=48  Identities=13%
+
+Q ss_pred             CEEEEEECCCCCHHHHHHHHHHHCCCCCCCEEEEEECCEECCHHHHHHH
+Q ss_conf             5058997586529999999998629997777999987920880267999
+Q Undefined        46 DKKKYLVPADLTVGQFVYVVRKRIKLGAEKAIFVFVKNTLPPTAALMSA   94 (122)
+Q Consensus        46 ~k~KflV~~~~tv~~~~~~lrk~L~l~~~~slflyVnn~~p~~d~~ig~   94 (122)
+                      +...+-|+.+.||+++...|..+..+++++.-.+| ++.....+.++++
+T Consensus        88 ~~~~~~v~~~~tV~~lK~~i~~~~~ip~~~~~L~~-~g~~L~d~~tL~~  135 (149)
+T c6mdhA_          88 NNRAYEVQLTQKVARLKEQVAERESTNVDQFWLSF-QGQPLDDEKQLGE  135 (149)
+T ss_dssp             CEEEEEECTTSBHHHHHHHHHHHTTCCGGGEEEEE-TTEECCTTSBGGG
+T ss_pred             EEEEEEECCCCCHHHHHHHHHHHHCCCHHHEEEEE-CCEECCCCCCHHH
+T ss_conf             18999947766389999999887199977738744-6777367557888
+
+

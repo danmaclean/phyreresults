@@ -1,0 +1,26 @@
+108 d2npta1 Probab=25.34   E-value=1.1e+02  Score=15.07  Aligned_columns=65  Identities=22%
+
+Q ss_pred             CCCCEEEEEEECCCCCCCCCCEEEEEECCCCCHHHHHHHHHHHCCCCCCCEEEEEECCEE
+Q ss_conf             898005999976768875445058997586529999999998629997777999987920
+Q Undefined        26 YPDRIPVIVEKAGQSDVPDIDKKKYLVPADLTVGQFVYVVRKRIKLGAEKAIFVFVKNTL   85 (122)
+Q Consensus        26 ~p~~IPVIvE~~~~~~~p~l~k~KflV~~~~tv~~~~~~lrk~L~l~~~~slflyVnn~~   85 (122)
+                      +|-+-|+|+..    ++|.-..--|.|+++.+|.++...+-+.+.-+ ..+.|=|     
+T Consensus         6 ~~a~q~LvIrI----k~~~~~~VDWtv~sql~F~dVL~~i~Q~~~d~-~~t~fey-----   55 (101)
+T d2npta1           6 FPAMQVLVIRI----KIPNSGAVDWTVHSQLLFRDVLDVIGQVLPEA-TTTAFEY-----   55 (101)
+T ss_dssp             CCCCCCEEEEE----EETTTEEEEEEECCCCCHHHHHHHHHHHSTTS-CCSEEEE-----
+T ss_pred             CCCCEEEEEEE----EECCCCEEEEEEEEEEEHHHHHHHHHHHCCCC-CHHHHEE-----
+T ss_conf             56650799999----94688626799851465889999999733443-2011100-----
+
+
+Q ss_pred             CCHHHHHHHHHHHHCCCCCEEEEEECCCC
+Q ss_conf             88026799999971676887999972864
+Q Undefined        86 PPTAALMSAIYEEHKDEDGFLYMTYSGEN  114 (122)
+Q Consensus        86 p~~d~~ig~LY~~~kd~DGfLyi~Ys~~~  114 (122)
+                                    +||||--+-.-|+++
+T Consensus        56 --------------eDEDGDRITVrSDeE   70 (101)
+T d2npta1          56 --------------EDEDGDRITVRSDEE   70 (101)
+T ss_dssp             --------------ECTTSCEEEECSHHH
+T ss_pred             --------------ECCCCCEEEEECHHH
+T ss_conf             --------------136777889833589
+
+

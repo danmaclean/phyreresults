@@ -1,0 +1,14 @@
+25 d2uyzb1 Probab=77.84   E-value=11  Score=20.49  Aligned_columns=52  Identities=6%
+
+Q ss_pred             CCCCEEEEEECCCCCHHHHHHHHHHHCCCCCCCEEEEEECCEECCHHHHHHHH
+Q ss_conf             54450589975865299999999986299977779999879208802679999
+Q Undefined        43 PDIDKKKYLVPADLTVGQFVYVVRKRIKLGAEKAIFVFVKNTLPPTAALMSAI   95 (122)
+Q Consensus        43 p~l~k~KflV~~~~tv~~~~~~lrk~L~l~~~~slflyVnn~~p~~d~~ig~L   95 (122)
+                      +.-+.-.|.|..+.+++.++..+.++.++++++ +-|+-++....+++|++++
+T Consensus        10 ~~g~~~~~~v~~~~ti~~lk~~~~~~~~i~~~~-~~l~f~G~~L~~~~T~~~~   61 (77)
+T d2uyzb1          10 QDSSEIHFKVKMTTHLKKLKESYCQRQGVPMNS-LRFLFEGQRIADNHTPKEL   61 (77)
+T ss_dssp             TTCCEEEEEEETTSCTHHHHHHHHHHHTCCGGG-EEEEETTEECCTTCCHHHH
+T ss_pred             CCCCEEEEECCCCCHHHHHHHHHHHHHCCCHHH-EEEEECCEEECCCCCHHHC
+T ss_conf             999999998489842899999999986899555-6998526073678898894
+
+

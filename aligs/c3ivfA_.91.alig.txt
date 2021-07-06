@@ -1,0 +1,14 @@
+91 c3ivfA_ Probab=38.11   E-value=65  Score=16.30  Aligned_columns=39  Identities=18%
+
+Q ss_pred             CCCCCEEEEEECCCCCHHHHHHHHHHHCCCCCCCEEEEE
+Q ss_conf             754450589975865299999999986299977779999
+Q Undefined        42 VPDIDKKKYLVPADLTVGQFVYVVRKRIKLGAEKAIFVF   80 (122)
+Q Consensus        42 ~p~l~k~KflV~~~~tv~~~~~~lrk~L~l~~~~slfly   80 (122)
+                      .|+....++.|+.+.|+.+++..|.++|++...+-+.|+
+T Consensus        91 ~~d~~~~~~~id~s~tv~eiv~~i~~~lgi~~~~~f~L~  129 (358)
+T c3ivfA_          91 MLDGTVKTIMVDDSKTVTDMLMTICARIGITNHDEYSLV  129 (358)
+T ss_dssp             CTTSCEEEEEEETTSBHHHHHHHHHHHTTCSCGGGEEEE
+T ss_pred             ECCCCEEEEEECCCCCHHHHHHHHHHHHCCCCCCCEEEE
+T ss_conf             168848999973674389999999988178881211521
+
+

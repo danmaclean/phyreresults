@@ -1,0 +1,52 @@
+02/07/2021 15:08:58 : INFO  : Run start: Fri Jul  2 15:08:58 BST 2021
+02/07/2021 15:08:58 : INFO  : Initialised job
+02/07/2021 15:08:58 : INFO  : Initialised job:
+Sequence
+>Undefined
+MAKSSFKISNPLEARMSESSRIREKYPDRIPVIVEKAGQSDVPDIDKKKYLVPADLTVGQ
+FVYVVRKRIKLGAEKAIFVFVKNTLPPTAALMSAIYEEHKDEDGFLYMTYSGENTFGSLT
+VA
+
+02/07/2021 15:08:58 : INFO  : Checked sequence
+02/07/2021 15:08:58 : INFO  : Finding homologues with PSI-BLAST
+02/07/2021 15:08:58 : INFO  : PSI-BLAST 3 iterations
+02/07/2021 15:09:55 : INFO  : PSI-BLAST 5 iterations
+02/07/2021 15:10:48 : INFO  : Finished PSI-BLAST
+02/07/2021 15:10:48 : INFO  : Running Buildali to generate a3m file
+02/07/2021 15:13:05 : INFO  : Converting to HMM
+02/07/2021 15:13:05 : INFO  : Calibrating HMM
+02/07/2021 15:13:08 : INFO  : Searching HMM database
+02/07/2021 15:18:05 : INFO  : Finished buildali
+02/07/2021 15:18:05 : INFO  : Predicting secondary structure
+02/07/2021 15:18:06 : INFO  : Predicted secondary structure (PSI-Pred)
+02/07/2021 15:18:06 : INFO  : Predicting Disordered regions
+02/07/2021 15:18:06 : INFO  : Predicted Disorder (Disopred)
+02/07/2021 15:18:06 : INFO  : Running memsat_svm check
+02/07/2021 15:18:06 : INFO  : Exitval for mkdir: 
+02/07/2021 15:18:42 : INFO  : Globular protein
+02/07/2021 15:18:42 : INFO  : Predicted Transmembrane (memsat_svm) ID 'b42df8c823c60664'
+02/07/2021 15:18:42 : INFO  : Initialising fold library search
+02/07/2021 15:18:42 : INFO  : Initialised search input
+02/07/2021 15:18:42 : INFO  : Building Ensemble models (normal)
+02/07/2021 15:18:42 : INFO  : Building d3d32a1.1.pdb
+02/07/2021 15:18:42 : INFO  : Building c3h9dB_.2.pdb
+02/07/2021 15:18:43 : INFO  : Building d1eo6a_.3.pdb
+02/07/2021 15:18:43 : INFO  : Building c6aagF_.4.pdb
+02/07/2021 15:18:44 : INFO  : Building c5azhA_.5.pdb
+02/07/2021 15:18:44 : INFO  : Building c3vvwB_.6.pdb
+02/07/2021 15:18:44 : INFO  : Building d2zjda1.7.pdb
+02/07/2021 15:18:44 : INFO  : Building c2zpnB_.8.pdb
+02/07/2021 15:18:45 : INFO  : Building c3w1yA_.9.pdb
+02/07/2021 15:18:45 : INFO  : Building c4eoyB_.10.pdb
+02/07/2021 15:18:45 : INFO  : Building d1klva_.11.pdb
+02/07/2021 15:18:46 : INFO  : Building c4gdkA_.12.pdb
+02/07/2021 15:18:46 : INFO  : Building d1wz3a1.13.pdb
+02/07/2021 15:18:46 : INFO  : Building c3w1sC_.14.pdb
+02/07/2021 15:18:47 : INFO  : Building c2dymE_.15.pdb
+02/07/2021 15:18:47 : INFO  : Building c3vqiE_.16.pdb
+02/07/2021 15:18:48 : INFO  : Building c4hpmB_.17.pdb
+02/07/2021 15:18:48 : INFO  : Building c2na1A_.18.pdb
+02/07/2021 15:18:48 : INFO  : Building c4gdkB_.19.pdb
+02/07/2021 15:18:49 : INFO  : Building c3goeA_.20.pdb
+02/07/2021 15:18:49 : INFO  : Finished HH model building (normal)
+02/07/2021 15:23:36 : INFO  : Run end  : Fri Jul  2 15:23:36 BST 2021

@@ -1,0 +1,14 @@
+93 c3tixA_ Probab=37.31   E-value=41  Score=17.38  Aligned_columns=49  Identities=4%
+
+Q ss_pred             CEEEEEECCCCCHHHHHHHHHHHCCCCCCCEEEEEECCEECCHHHHHHHH
+Q ss_conf             50589975865299999999986299977779999879208802679999
+Q Undefined        46 DKKKYLVPADLTVGQFVYVVRKRIKLGAEKAIFVFVKNTLPPTAALMSAI   95 (122)
+Q Consensus        46 ~k~KflV~~~~tv~~~~~~lrk~L~l~~~~slflyVnn~~p~~d~~ig~L   95 (122)
+                      +...|.|..+.++..++..+.++.++++++ +-++-++....+++|..+|
+T Consensus        13 keV~FkVkktttL~KLmdayaek~gi~~s~-lrFiFDG~rL~~ddTP~dL   61 (153)
+T c3tixA_          13 SEIFFKIKKTTPLRRLMEAFAKRQGKEMDS-LTFLYDGIEIQADQTPEDL   61 (153)
+T ss_dssp             CEEEEEEETTSCTHHHHHHHHHHTTCCGGG-SCEEETTEECCSSCCTTTT
+T ss_pred             CEEEEEECCCCHHHHHHHHHHHHCCCCHHH-EEEEECCEECCCCCCHHHC
+T ss_conf             489999638982899999999760999799-4657788473755898883
+
+

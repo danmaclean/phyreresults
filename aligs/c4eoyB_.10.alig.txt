@@ -1,0 +1,38 @@
+10 c4eoyB_ Probab=100.00  E-value=1.1e-44  Score=266.38  Aligned_columns=112  Identities=47%
+
+Q ss_pred             HHHHHCCHHHHHHHHHHHHHHCCCCEEEEEEECCCCCCCCCCEEEEEECCCCCHHHHHHH
+Q ss_conf             200208989999999999984898005999976768875445058997586529999999
+Q Undefined         5 SFKISNPLEARMSESSRIREKYPDRIPVIVEKAGQSDVPDIDKKKYLVPADLTVGQFVYV   64 (122)
+Q Consensus         5 ~fk~~~s~e~R~~e~~~ir~k~p~~IPVIvE~~~~~~~p~l~k~KflV~~~~tv~~~~~~   64 (122)
+                      |||++||||+|++|++++|+|||++||||||+++++++|.|++.|||||++++|++|+.+
+T Consensus         3 sfK~~~s~eeR~~e~~~ir~kyP~~IPVIvE~~~~s~lp~l~k~KfLvp~~~tv~qf~~~   62 (123)
+T c4eoyB_           3 SLKDEVSFENRVAETHKIRSKYPNRIPVVIERANRSNLPIIEKKKFLVPMNMLVGEFKFI   62 (123)
+T ss_dssp             CHHHHSCHHHHHHHHHHHHHHCTTEEEEEEEECSCSSSCCCSCCEEEEETTCBHHHHHHH
+T ss_pred             CHHCCCCHHHHHHHHHHHHHHCCCCEEEEEEECCCCCCCCCCCEEEEECCCCCHHHHHHH
+T ss_conf             001018989999999999985997127999836878875111106620675529999999
+
+
+Q ss_pred             HHHHC---------CCCCCCEEEEEECCEECCHHHHHHHHHHHHCCCCCEEEEEECCCCC
+Q ss_conf             99862---------9997777999987920880267999999716768879999728641
+Q Undefined        65 VRKRI---------KLGAEKAIFVFVKNTLPPTAALMSAIYEEHKDEDGFLYMTYSGENT  115 (122)
+Q Consensus        65 lrk~L---------~l~~~~slflyVnn~~p~~d~~ig~LY~~~kd~DGfLyi~Ys~~~a  115 (122)
+                      ||++|         ++++++++||||||++|+++++||+||++|||+||||||+||+++|
+T Consensus        63 irk~l~~~~~~~~~~l~~~~slfl~v~~~l~~~~~~l~~lY~~~KdeDGfLYi~Ys~e~T  122 (123)
+T c4eoyB_          63 LHQHINQSAYGSNMKLFRERTIYLFVNNIVPKTGLLMQDLYEMYKDEDGYLYMEYSSESS  122 (123)
+T ss_dssp             HHHHHHEEECSTTCEEECCCCCEEEBTTBCCCTTSBHHHHHHHHCCTTSCEEEEEESSSC
+T ss_pred             HHHHHHCCCCCCCCCCCCCCEEEEEECCEECCCCCHHHHHHHHHCCCCCEEEEEECCCCC
+T ss_conf             998620000024433385615999977821784213899999840458849999516223
+
+
+Q ss_pred             C
+Q ss_conf             1
+Q Undefined       116 F  116 (122)
+Q Consensus       116 f  116 (122)
+                      .
+T Consensus       123 l  123 (123)
+T c4eoyB_         123 L  123 (123)
+T ss_dssp             C
+T ss_pred             C
+T ss_conf             9
+
+

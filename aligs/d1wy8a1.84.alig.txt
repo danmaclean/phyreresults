@@ -1,0 +1,14 @@
+84 d1wy8a1 Probab=40.14   E-value=60  Score=16.48  Aligned_columns=43  Identities=9%
+
+Q ss_pred             ECCCCCHHHHHHHHHHHCCCCCCCEEEEEECCEECCHHHHHHHH
+Q ss_conf             75865299999999986299977779999879208802679999
+Q Undefined        52 VPADLTVGQFVYVVRKRIKLGAEKAIFVFVKNTLPPTAALMSAI   95 (122)
+Q Consensus        52 V~~~~tv~~~~~~lrk~L~l~~~~slflyVnn~~p~~d~~ig~L   95 (122)
+                      |+.+.||+++...|..+.++++++--++| ++.....+.++++.
+T Consensus        19 v~~~~tV~~lK~~i~~~~~i~~~~~rLi~-~G~~L~d~~tL~~y   61 (76)
+T d1wy8a1          19 VSRKATIEELRERVWALFDVRPECQRLFY-RGKQLENGYTLFDY   61 (76)
+T ss_dssp             CCTTCBHHHHHHHHHHHSCCCTTTEEEEE-TTEECCSSSBHHHH
+T ss_pred             ECCCCCHHHHHHHHHHHHCCCHHHEEEEE-CCEECCCCCCHHHC
+T ss_conf             08877289999999998679976489877-78993367568992
+
+

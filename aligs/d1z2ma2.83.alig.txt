@@ -1,0 +1,14 @@
+83 d1z2ma2 Probab=41.32   E-value=57  Score=16.59  Aligned_columns=48  Identities=10%
+
+Q ss_pred             CEEEEEECCCCCHHHHHHHHHHHCCCCCCCEEEEEECCEECCHHHHHHH
+Q ss_conf             5058997586529999999998629997777999987920880267999
+Q Undefined        46 DKKKYLVPADLTVGQFVYVVRKRIKLGAEKAIFVFVKNTLPPTAALMSA   94 (122)
+Q Consensus        46 ~k~KflV~~~~tv~~~~~~lrk~L~l~~~~slflyVnn~~p~~d~~ig~   94 (122)
+                      +.-.+-|..+.||+++...+..+.++++++ ..|..++.....+.++++
+T Consensus        14 ~~~~~~v~~~~tV~~lK~~i~~~~~~~~~~-q~L~~~G~~L~d~~tL~~   61 (76)
+T d1z2ma2          14 RSSTYEVRLTQTVAHLKQQVSGLEGVQDDL-FWLTFEGKPLEDQLPLGE   61 (76)
+T ss_dssp             CEEEEEECTTSBHHHHHHHHHHHHTCCGGG-EEEEETTEECCTTSBGGG
+T ss_pred             CEEEEEECCCCCHHHHHHHHHHHHCCCHHH-EEEEECCEEECCCCCHHH
+T ss_conf             899999758883899999999884898776-799988888036656898
+
+
